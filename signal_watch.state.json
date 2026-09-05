@@ -36,7 +36,7 @@
   "SUIUSDT|4h|div": "none",
   "PEPEUSDT|4h|div": "none",
   "BTCUSDT|1h|bias": "none",
-  "BTCUSDT|1d|div": "short",
+  "BTCUSDT|1d|div": "none",
   "ETHUSDT|1h|bias": "none",
   "ETHUSDT|1d|div": "short",
   "SOLUSDT|1h|bias": "none",
