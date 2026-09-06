@@ -24,7 +24,7 @@
   "SUIUSDT|4h|rev": "none|0",
   "PEPEUSDT|4h|rev": "none|1",
   "BTCUSDT|4h|div": "none",
-  "ETHUSDT|4h|div": "short",
+  "ETHUSDT|4h|div": "none",
   "SOLUSDT|4h|div": "short",
   "BNBUSDT|4h|div": "none",
   "XRPUSDT|4h|div": "none",
