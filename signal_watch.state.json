@@ -42,7 +42,7 @@
   "SOLUSDT|1h|bias": "none",
   "SOLUSDT|1d|div": "none",
   "BNBUSDT|1h|bias": "none",
-  "BNBUSDT|1d|div": "short",
+  "BNBUSDT|1d|div": "none",
   "XRPUSDT|1h|bias": "none",
   "XRPUSDT|1d|div": "none",
   "ADAUSDT|1h|bias": "none",
