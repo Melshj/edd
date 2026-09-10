@@ -52,7 +52,7 @@
   "LINKUSDT|1h|bias": "none",
   "LINKUSDT|1d|div": "none",
   "AVAXUSDT|1h|bias": "none",
-  "AVAXUSDT|1d|div": "short",
+  "AVAXUSDT|1d|div": "none",
   "TONUSDT|1h|bias": "none",
   "TONUSDT|1d|div": "none",
   "SUIUSDT|1h|bias": "none",
