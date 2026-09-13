@@ -38,7 +38,7 @@
   "BTCUSDT|1h|bias": "none",
   "BTCUSDT|1d|div": "none",
   "ETHUSDT|1h|bias": "none",
-  "ETHUSDT|1d|div": "short",
+  "ETHUSDT|1d|div": "none",
   "SOLUSDT|1h|bias": "none",
   "SOLUSDT|1d|div": "none",
   "BNBUSDT|1h|bias": "none",
