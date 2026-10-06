@@ -58,7 +58,7 @@
   "SUIUSDT|1h|bias": "none",
   "SUIUSDT|1d|div": "none",
   "PEPEUSDT|1h|bias": "none",
-  "PEPEUSDT|1d|div": "none",
+  "PEPEUSDT|1d|div": "short",
   "open_trades": [
     {
       "id": "ADAUSDT|4h|2026-08-17 16:09:40",
@@ -3925,6 +3925,21 @@
       "target": 0.240229,
       "opened_at": "2026-10-05 20:50:30",
       "entry_ts": 1791233433539,
+      "status": "open",
+      "result": null,
+      "pnl_pct": null,
+      "closed_at": null
+    },
+    {
+      "id": "PEPEUSDT|1d|2026-10-06 01:29:36",
+      "symbol": "PEPEUSDT",
+      "interval": "1d",
+      "direction": "short",
+      "entry": 4e-06,
+      "stop": 5e-06,
+      "target": 3e-06,
+      "opened_at": "2026-10-06 01:29:36",
+      "entry_ts": 1791250179043,
       "status": "open",
       "result": null,
       "pnl_pct": null,
