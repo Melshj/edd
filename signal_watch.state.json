@@ -27,7 +27,7 @@
   "ETHUSDT|4h|div": "none",
   "SOLUSDT|4h|div": "none",
   "BNBUSDT|4h|div": "none",
-  "XRPUSDT|4h|div": "long",
+  "XRPUSDT|4h|div": "none",
   "ADAUSDT|4h|div": "none",
   "DOGEUSDT|4h|div": "none",
   "LINKUSDT|4h|div": "none",
@@ -58,7 +58,7 @@
   "SUIUSDT|1h|bias": "none",
   "SUIUSDT|1d|div": "none",
   "PEPEUSDT|1h|bias": "none",
-  "PEPEUSDT|1d|div": "short",
+  "PEPEUSDT|1d|div": "none",
   "open_trades": [
     {
       "id": "ADAUSDT|4h|2026-08-17 16:09:40",
