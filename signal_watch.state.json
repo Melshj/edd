@@ -58,7 +58,7 @@
   "SUIUSDT|1h|bias": "none",
   "SUIUSDT|1d|div": "long",
   "PEPEUSDT|1h|bias": "none",
-  "PEPEUSDT|1d|div": "long",
+  "PEPEUSDT|1d|div": "none",
   "open_trades": [
     {
       "id": "ADAUSDT|4h|2026-08-17 16:09:40",
